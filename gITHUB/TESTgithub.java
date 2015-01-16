@@ -25,8 +25,9 @@ public class TESTgithub extends TESTgithubHelper
 	 * Original Host : WinNT Version 6.1  Build 7601 (S)
 	 * 
 	 * @since  2015/01/16
-	 * @author Clive
+	 * @author Clive2
 	 */
+	
 	public void testMain(Object[] args) 
 	{
 		startApp("ClassicsJavaA");
